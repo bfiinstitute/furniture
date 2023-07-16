@@ -1,0 +1,14 @@
+*{
+    box-sizing: border-box;
+    outline: 0;
+    margin: 0;
+    padding: 0;
+    
+}
+.header{
+    background-color: #490dec;
+    padding: 2px;
+}
+.flex{
+    flex: auto;
+}
